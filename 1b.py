@@ -1,0 +1,2 @@
+from mudel import print
+
